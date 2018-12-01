@@ -8,6 +8,8 @@ TagManager:
   - PlayerAlertRange
   - NPC
   - Base
+  - PickupHeartContainer
+  - PickupSpendHeart
   layers:
   - Default
   - TransparentFX
