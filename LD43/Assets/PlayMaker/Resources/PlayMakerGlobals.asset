@@ -85,3 +85,18 @@ MonoBehaviour:
   - Replenished
   - Sacrifice
   - Cancel
+  - Listener
+  - HealthPickup
+  - AddDamage
+  - HeartContainerPickup
+  - HeartContainerSpend
+  - Death
+  - 4Hearts
+  - 3Hearts
+  - 2Hearts
+  - 1Heart
+  - TargetPlayer
+  - AddNPCDamage
+  - TargetNPC
+  - Destroyed
+  - 5Hearts
