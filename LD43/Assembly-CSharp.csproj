@@ -57,6 +57,7 @@
      <Compile Include="Assets\PlayMaker Custom Actions\__Internal\FsmStateActionAdvanced.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\Array\ArrayGetClosestGameObject.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\Navigation\NavMeshAgentMoveTo.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\Transform\RotateAround.cs" />
      <Compile Include="Assets\PlayMaker PathFinding\Agent\AgentActivateCurrentOffMeshLink.cs" />
      <Compile Include="Assets\PlayMaker PathFinding\Agent\AgentCompleteOffMeshLink.cs" />
      <Compile Include="Assets\PlayMaker PathFinding\Agent\AgentFindClosestEdge.cs" />
