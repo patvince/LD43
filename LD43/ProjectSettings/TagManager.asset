@@ -16,6 +16,8 @@ TagManager:
   - NPCWeapon
   - SpawnPoint
   - Enemy
+  - Gravestone
+  - NPCPoint
   layers:
   - Default
   - TransparentFX
